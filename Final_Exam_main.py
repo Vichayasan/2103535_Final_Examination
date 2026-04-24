@@ -15,7 +15,7 @@ M2B          = PWMOutputDevice(16)
 LIMIT_SWITCH = Button(21, pull_up=False)
 LED_GREEN    = LED(7, pwm=False)
 LED_RED      = LED(6, pwm=False)
-Poten        = Potentiometer(10)
+Poten        = Potentiometer(27)
 
 press_time = 0
 

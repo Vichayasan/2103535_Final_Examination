@@ -1,3 +1,12 @@
+# Micro-Python code Part02
+'''
+Modify the code to:
+# a) Read the potentiometer with a 1-second update rate.
+# b) The button is “push button”. Pull up resister is required.
+# c) Limit the power to the motor to maximum of 50% duty cycle.
+# d) Correct the program.
+''' 
+
 from machine import Pin, ADC, PWM
 import time
 

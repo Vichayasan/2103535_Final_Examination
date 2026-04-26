@@ -1,3 +1,4 @@
+*3. Briefly explain the program. What does it do?*
 **Program Description**
 
 This program implements a unidirectional DC motor speed and direction control system using a Raspberry Pi Pico microcontroller. The system comprises an analog potentiometer, a momentary push button, and a PWM-driven motor driver interface.

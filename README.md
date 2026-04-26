@@ -1,5 +1,5 @@
 # Wiring Diagram Of Part01
-<img width="1971" height="1283" alt="Screenshot 2026-04-25 085720" src="https://github.com/user-attachments/assets/35b76a13-add2-4e5d-bc88-dade0e97787a" />
+<img width="1908" height="1209" alt="6872087421_Vichayasan_wiring" src="https://github.com/user-attachments/assets/6ee285f5-5d5d-4fd9-96de-c4b6cffd5faa" />
 
 # Micro-Python code Part01
 a)    PUSH and RELEASE the button to drive the belt system at maximum speed in one direction. PUSH and RELEASE again will toggle its direction.?<br/>
